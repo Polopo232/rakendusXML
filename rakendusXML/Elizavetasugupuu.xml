@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene synd="1926">
+	<nimi>Elizaveta II
+	</nimi>
+	<lapsed>
+		<inimene synd="1948">
+			<nimi>Charles</nimi>
+			<lapsed>
+				<inimene synd="1984">
+					<nimi>Prints Harry</nimi>
+				</inimene>
+				<inimene synd="1982">
+					<nimi>William</nimi>
+				</inimene>
+			</lapsed>
+		</inimene>
+		<inimene synd="1959">
+			<nimi>Anne</nimi>
+		</inimene>
+	</lapsed>
+</inimene>
