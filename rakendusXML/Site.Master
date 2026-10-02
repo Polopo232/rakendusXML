@@ -48,7 +48,8 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/">XML/XSLT teooria</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Sugupuu</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Kontact</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Oma sugupuu</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact2">XML Skeem</a></li>
                     </ul>
                 </div>
             </div>

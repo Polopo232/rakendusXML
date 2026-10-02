@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="style.css"?>
 <!--jada-->
 <inimene synd="1926">
-	<nimi>Elizaveta II
-	</nimi>
+	<nimi>Elisaveta II</nimi>
 	<lapsed>
-		<inimene synd="1948">
-			<nimi>Charles</nimi>
+		<inimene synd="1956">
+			<nimi>Charlles</nimi>
 			<lapsed>
-				<inimene synd="1984">
+				<inimene synd="1980">
 					<nimi>Prints Harry</nimi>
 				</inimene>
 				<inimene synd="1982">
@@ -16,7 +16,7 @@
 			</lapsed>
 		</inimene>
 		<inimene synd="1959">
-			<nimi>Anne</nimi>
+			<nimi>C_Anne</nimi>
 		</inimene>
 	</lapsed>
 </inimene>
