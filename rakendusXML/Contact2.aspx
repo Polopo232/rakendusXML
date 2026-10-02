@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact2.aspx.cs" Inherits="rakendusXML.Contact" %>
+﻿<%@ Page Title="XML Skeem" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact2.aspx.cs" Inherits="rakendusXML.Contact" %>
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
