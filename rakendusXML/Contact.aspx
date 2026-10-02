@@ -7,7 +7,7 @@
 
     <div>
         <asp:Xml runat="server"
-            Documentsource="~/Minusugupuu.xml"
+            Documentsource="/Minusugupuu.xml"
             TransformSource="~/Sugupuuparing.xslt">
 
         </asp:Xml>
