@@ -1,0 +1,156 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+
+<reisid>
+	<reis>
+		<suund id="China">
+			<Nimetus>Junction</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>4</Pikkus>
+		</suund>
+		<suund id="Nepal">
+			<Nimetus>Avenue</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="Philippines">
+			<Nimetus>Point</Nimetus>
+			<Riik>Greece</Riik>
+			<Pikkus>4</Pikkus>
+		</suund>
+		<suund id="Poland">
+			<Nimetus>Crossing</Nimetus>
+			<Riik>Poland</Riik>
+			<Pikkus>4</Pikkus>
+		</suund>
+		<suund id="Pakistan">
+			<Nimetus>Street</Nimetus>
+			<Riik>Czech Republic</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="China">
+			<Nimetus>Point</Nimetus>
+			<Riik>Brazil</Riik>
+			<Pikkus>4.5</Pikkus>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Circle</Nimetus>
+			<Riik>Czech Republic</Riik>
+			<Pikkus>4</Pikkus>
+		</suund>
+		<suund id="Russia">
+			<Nimetus>Crossing</Nimetus>
+			<Riik>Poland</Riik>
+			<Pikkus>15</Pikkus>
+		</suund>
+		<suund id="China">
+			<Nimetus>Pass</Nimetus>
+			<Riik>Canada</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Center</Nimetus>
+			<Riik>Thailand</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="China">
+			<Nimetus>Road</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Japan">
+			<Nimetus>Junction</Nimetus>
+			<Riik>Palestinian Territory</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Canada">
+			<Nimetus>Lane</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Colombia">
+			<Nimetus>Circle</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="China">
+			<Nimetus>Point</Nimetus>
+			<Riik>Comoros</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Japan">
+			<Nimetus>Drive</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="China">
+			<Nimetus>Drive</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Cyprus">
+			<Nimetus>Terrace</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="China">
+			<Nimetus>Park</Nimetus>
+			<Riik>Vietnam</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Street</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="France">
+			<Nimetus>Center</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>2.5</Pikkus>
+		</suund>
+		<suund id="Ethiopia">
+			<Nimetus>Junction</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="Argentina">
+			<Nimetus>Trail</Nimetus>
+			<Riik>Jamaica</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="Philippines">
+			<Nimetus>Road</Nimetus>
+			<Riik>Indonesia</Riik>
+			<Pikkus>5</Pikkus>
+		</suund>
+		<suund id="Canada">
+			<Nimetus>Parkway</Nimetus>
+			<Riik>Brazil</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Brazil">
+			<Nimetus>Crossing</Nimetus>
+			<Riik>Portugal</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Russia">
+			<Nimetus>Way</Nimetus>
+			<Riik>China</Riik>
+			<Pikkus>3</Pikkus>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Court</Nimetus>
+			<Riik>South Africa</Riik>
+			<Pikkus>1.5</Pikkus>
+		</suund>
+		<suund id="Indonesia">
+			<Nimetus>Junction</Nimetus>
+			<Riik>United States</Riik>
+			<Pikkus>4</Pikkus>
+		</suund>
+	</reis>
+</reisid>
