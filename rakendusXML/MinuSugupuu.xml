@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--jada-->
+<inimene synd="1956">
+	<nimi>Natasha</nimi>
+	<lapse>
+		<inimene synd="1984">
+			<nimi>Alesja</nimi>
+			<lapse>
+				<inimene synd="2008">
+					<nimi>Nikita</nimi>
+				</inimene>
+				<inimene synd="2006">
+					<nimi>Sergei</nimi>
+				</inimene>
+			</lapse>
+		</inimene>
+		<inimene synd="1980">
+			<nimi>Lesha</nimi>
+		</inimene>
+		<inimene synd="1982">
+			<nimi>Dima</nimi>
+		</inimene>
+	</lapse>
+</inimene>
