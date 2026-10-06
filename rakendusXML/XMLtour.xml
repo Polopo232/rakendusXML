@@ -1,156 +1,335 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <reisid>
 	<reis>
 		<suund id="China">
-			<Nimetus>Junction</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>4</Pikkus>
+			<riik>China</riik>
+			<kestvus>4</kestvus>
 		</suund>
-		<suund id="Nepal">
-			<Nimetus>Avenue</Nimetus>
-			<Riik>Indonesia</Riik>
-			<Pikkus>1.5</Pikkus>
+		<transport>lennureis</transport>
+		<majutus>400</majutus>
+		<ekskursioonid>150</ekskursioonid>
+		<muudKulud>50</muudKulud>
+		<hinnang>4.8</hinnang>
+	</reis>
+	<reis>
+		<suund id="Indonesia">
+			<riik>Indonesia</riik>
+			<kestvus>2</kestvus>
 		</suund>
-		<suund id="Philippines">
-			<Nimetus>Point</Nimetus>
-			<Riik>Greece</Riik>
-			<Pikkus>4</Pikkus>
+		<transport>bussireis</transport>
+		<majutus>150</majutus>
+		<ekskursioonid>50</ekskursioonid>
+		<muudKulud>20</muudKulud>
+		<hinnang>3.9</hinnang>
+	</reis>
+	<reis>
+		<suund id="Greece">
+			<riik>Greece</riik>
+			<kestvus>4</kestvus>
 		</suund>
+		<transport>lennureis</transport>
+		<majutus>350</majutus>
+		<ekskursioonid>100</ekskursioonid>
+		<muudKulud>40</muudKulud>
+		<hinnang>4.5</hinnang>
+	</reis>
+	<reis>
 		<suund id="Poland">
-			<Nimetus>Crossing</Nimetus>
-			<Riik>Poland</Riik>
-			<Pikkus>4</Pikkus>
+			<riik>Poland</riik>
+			<kestvus>4</kestvus>
 		</suund>
-		<suund id="Pakistan">
-			<Nimetus>Street</Nimetus>
-			<Riik>Czech Republic</Riik>
-			<Pikkus>1.5</Pikkus>
+		<transport>bussireis</transport>
+		<majutus>180</majutus>
+		<ekskursioonid>60</ekskursioonid>
+		<muudKulud>30</muudKulud>
+		<hinnang>4.1</hinnang>
+	</reis>
+	<reis>
+		<suund id="Czech Republic">
+			<riik>Czech Republic</riik>
+			<kestvus>2</kestvus>
 		</suund>
-		<suund id="China">
-			<Nimetus>Point</Nimetus>
-			<Riik>Brazil</Riik>
-			<Pikkus>4.5</Pikkus>
-		</suund>
-		<suund id="Indonesia">
-			<Nimetus>Circle</Nimetus>
-			<Riik>Czech Republic</Riik>
-			<Pikkus>4</Pikkus>
-		</suund>
-		<suund id="Russia">
-			<Nimetus>Crossing</Nimetus>
-			<Riik>Poland</Riik>
-			<Pikkus>15</Pikkus>
-		</suund>
-		<suund id="China">
-			<Nimetus>Pass</Nimetus>
-			<Riik>Canada</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Indonesia">
-			<Nimetus>Center</Nimetus>
-			<Riik>Thailand</Riik>
-			<Pikkus>1.5</Pikkus>
-		</suund>
-		<suund id="China">
-			<Nimetus>Road</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Japan">
-			<Nimetus>Junction</Nimetus>
-			<Riik>Palestinian Territory</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Canada">
-			<Nimetus>Lane</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Colombia">
-			<Nimetus>Circle</Nimetus>
-			<Riik>Indonesia</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="China">
-			<Nimetus>Point</Nimetus>
-			<Riik>Comoros</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Japan">
-			<Nimetus>Drive</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="China">
-			<Nimetus>Drive</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Cyprus">
-			<Nimetus>Terrace</Nimetus>
-			<Riik>Indonesia</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="Indonesia">
-			<Nimetus>Parkway</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="China">
-			<Nimetus>Park</Nimetus>
-			<Riik>Vietnam</Riik>
-			<Pikkus>1.5</Pikkus>
-		</suund>
-		<suund id="Indonesia">
-			<Nimetus>Street</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
-		<suund id="France">
-			<Nimetus>Center</Nimetus>
-			<Riik>Indonesia</Riik>
-			<Pikkus>2.5</Pikkus>
-		</suund>
-		<suund id="Ethiopia">
-			<Nimetus>Junction</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>1.5</Pikkus>
-		</suund>
-		<suund id="Argentina">
-			<Nimetus>Trail</Nimetus>
-			<Riik>Jamaica</Riik>
-			<Pikkus>1.5</Pikkus>
-		</suund>
-		<suund id="Philippines">
-			<Nimetus>Road</Nimetus>
-			<Riik>Indonesia</Riik>
-			<Pikkus>5</Pikkus>
-		</suund>
-		<suund id="Canada">
-			<Nimetus>Parkway</Nimetus>
-			<Riik>Brazil</Riik>
-			<Pikkus>3</Pikkus>
-		</suund>
+		<transport>bussireis</transport>
+		<majutus>120</majutus>
+		<ekskursioonid>40</ekskursioonid>
+		<muudKulud>25</muudKulud>
+		<hinnang>4.0</hinnang>
+	</reis>
+	<reis>
 		<suund id="Brazil">
-			<Nimetus>Crossing</Nimetus>
-			<Riik>Portugal</Riik>
-			<Pikkus>3</Pikkus>
+			<riik>Brazil</riik>
+			<kestvus>5</kestvus>
 		</suund>
+		<transport>lennureis</transport>
+		<majutus>500</majutus>
+		<ekskursioonid>200</ekskursioonid>
+		<muudKulud>100</muudKulud>
+		<hinnang>4.9</hinnang>
+	</reis>
+	<reis>
 		<suund id="Russia">
-			<Nimetus>Way</Nimetus>
-			<Riik>China</Riik>
-			<Pikkus>3</Pikkus>
+			<riik>Poland</riik>
+			<kestvus>15</kestvus>
 		</suund>
-		<suund id="Indonesia">
-			<Nimetus>Court</Nimetus>
-			<Riik>South Africa</Riik>
-			<Pikkus>1.5</Pikkus>
+		<transport>bussireis</transport>
+		<majutus>600</majutus>
+		<ekskursioonid>150</ekskursioonid>
+		<muudKulud>80</muudKulud>
+		<hinnang>4.2</hinnang>
+	</reis>
+	<reis>
+		<suund id="Canada">
+			<riik>Canada</riik>
+			<kestvus>3</kestvus>
 		</suund>
-		<suund id="Indonesia">
-			<Nimetus>Junction</Nimetus>
-			<Riik>United States</Riik>
-			<Pikkus>4</Pikkus>
+		<transport>lennureis</transport>
+		<majutus>450</majutus>
+		<ekskursioonid>120</ekskursioonid>
+		<muudKulud>60</muudKulud>
+		<hinnang>4.6</hinnang>
+	</reis>
+	<reis>
+		<suund id="Thailand">
+			<riik>Thailand</riik>
+			<kestvus>8</kestvus>
 		</suund>
+		<transport>lennureis</transport>
+		<majutus>320</majutus>
+		<ekskursioonid>110</ekskursioonid>
+		<muudKulud>50</muudKulud>
+		<hinnang>4.7</hinnang>
+	</reis>
+	<reis>
+		<suund id="United States">
+			<riik>United States</riik>
+			<kestvus>10</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>900</majutus>
+		<ekskursioonid>300</ekskursioonid>
+		<muudKulud>150</muudKulud>
+		<hinnang>5.0</hinnang>
+	</reis>
+	<reis>
+		<suund id="Japan">
+			<riik>Japan</riik>
+			<kestvus>7</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>750</majutus>
+		<ekskursioonid>220</ekskursioonid>
+		<muudKulud>110</muudKulud>
+		<hinnang>4.9</hinnang>
+	</reis>
+	<reis>
+		<suund id="Italy">
+			<riik>Italy</riik>
+			<kestvus>6</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>480</majutus>
+		<ekskursioonid>130</ekskursioonid>
+		<muudKulud>70</muudKulud>
+		<hinnang>4.6</hinnang>
+	</reis>
+	<reis>
+		<suund id="Spain">
+			<riik>Spain</riik>
+			<kestvus>9</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>520</majutus>
+		<ekskursioonid>140</ekskursioonid>
+		<muudKulud>90</muudKulud>
+		<hinnang>4.7</hinnang>
+	</reis>
+	<reis>
+		<suund id="France">
+			<riik>France</riik>
+			<kestvus>5</kestvus>
+		</suund>
+		<transport>bussireis</transport>
+		<majutus>410</majutus>
+		<ekskursioonid>160</ekskursioonid>
+		<muudKulud>65</muudKulud>
+		<hinnang>4.3</hinnang>
+	</reis>
+	<reis>
+		<suund id="Germany">
+			<riik>Germany</riik>
+			<kestvus>3</kestvus>
+		</suund>
+		<transport>bussireis</transport>
+		<majutus>230</majutus>
+		<ekskursioonid>70</ekskursioonid>
+		<muudKulud>40</muudKulud>
+		<hinnang>4.2</hinnang>
+	</reis>
+	<reis>
+		<suund id="Norway">
+			<riik>Norway</riik>
+			<kestvus>8</kestvus>
+		</suund>
+		<transport>laevareis</transport>
+		<majutus>680</majutus>
+		<ekskursioonid>190</ekskursioonid>
+		<muudKulud>120</muudKulud>
+		<hinnang>4.8</hinnang>
+	</reis>
+	<reis>
+		<suund id="Sweden">
+			<riik>Sweden</riik>
+			<kestvus>4</kestvus>
+		</suund>
+		<transport>laevareis</transport>
+		<majutus>310</majutus>
+		<ekskursioonid>85</ekskursioonid>
+		<muudKulud>45</muudKulud>
+		<hinnang>4.1</hinnang>
+	</reis>
+
+	<reis>
+		<suund id="Egypt">
+			<riik>Egypt</riik>
+			<kestvus>7</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>390</majutus>
+		<ekskursioonid>170</ekskursioonid>
+		<muudKulud>50</muudKulud>
+		<hinnang>4.4</hinnang>
+	</reis>
+
+	<reis>
+		<suund id="Turkey">
+			<riik>Turkey</riik>
+			<kestvus>10</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>460</majutus>
+		<ekskursioonid>110</ekskursioonid>
+		<muudKulud>60</muudKulud>
+		<hinnang>4.5</hinnang>
+	</reis>
+	<reis>
+		<suund id="Portugal">
+			<riik>Portugal</riik>
+			<kestvus>6</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>380</majutus>
+		<ekskursioonid>125</ekskursioonid>
+		<muudKulud>55</muudKulud>
+		<hinnang>4.6</hinnang>
+	</reis>
+	<reis>
+		<suund id="Croatia">
+			<riik>Croatia</riik>
+			<kestvus>5</kestvus>
+		</suund>
+		<transport>bussireis</transport>
+		<majutus>290</majutus>
+		<ekskursioonid>95</ekskursioonid>
+		<muudKulud>35</muudKulud>
+		<hinnang>4.3</hinnang>
+	</reis>
+	<reis>
+		<suund id="Netherlands">
+			<riik>Netherlands</riik>
+			<kestvus>4</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>420</majutus>
+		<ekskursioonid>140</ekskursioonid>
+		<muudKulud>75</muudKulud>
+		<hinnang>4.4</hinnang>
+	</reis>
+	<reis>
+		<suund id="Austria">
+			<riik>Austria</riik>
+			<kestvus>5</kestvus>
+		</suund>
+		<transport>bussireis</transport>
+		<majutus>360</majutus>
+		<ekskursioonid>105</ekskursioonid>
+		<muudKulud>50</muudKulud>
+		<hinnang>4.5</hinnang>
+	</reis>
+	<reis>
+		<suund id="Switzerland">
+			<riik>Switzerland</riik>
+			<kestvus>6</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>820</majutus>
+		<ekskursioonid>250</ekskursioonid>
+		<muudKulud>140</muudKulud>
+		<hinnang>4.9</hinnang>
+	</reis>
+	<reis>
+		<suund id="Finland">
+			<riik>Finland</riik>
+			<kestvus>3</kestvus>
+		</suund>
+		<transport>laevareis</transport>
+		<majutus>210</majutus>
+		<ekskursioonid>60</ekskursioonid>
+		<muudKulud>30</muudKulud>
+		<hinnang>4.0</hinnang>
+	</reis>
+	<reis>
+		<suund id="Iceland">
+			<riik>Iceland</riik>
+			<kestvus>7</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>890</majutus>
+		<ekskursioonid>280</ekskursioonid>
+		<muudKulud>160</muudKulud>
+		<hinnang>4.9</hinnang>
+	</reis>
+	<reis>
+		<suund id="Vietnam">
+			<riik>Vietnam</riik>
+			<kestvus>12</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>340</majutus>
+		<ekskursioonid>180</ekskursioonid>
+		<muudKulud>70</muudKulud>
+		<hinnang>4.7</hinnang>
+	</reis>
+	<reis>
+		<suund id="South Africa">
+			<riik>South Africa</riik>
+			<kestvus>11</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>670</majutus>
+		<ekskursioonid>230</ekskursioonid>
+		<muudKulud>110</muudKulud>
+		<hinnang>4.8</hinnang>
+	</reis>
+	<reis>
+		<suund id="Australia">
+			<riik>Australia</riik>
+			<kestvus>14</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>1100</majutus>
+		<ekskursioonid>400</ekskursioonid>
+		<muudKulud>200</muudKulud>
+		<hinnang>5.0</hinnang>
+	</reis>
+	<reis>
+		<suund id="Mexico">
+			<riik>Mexico</riik>
+			<kestvus>9</kestvus>
+		</suund>
+		<transport>lennureis</transport>
+		<majutus>580</majutus>
+		<ekskursioonid>190</ekskursioonid>
+		<muudKulud>95</muudKulud>
+		<hinnang>4.6</hinnang>
 	</reis>
 </reisid>
