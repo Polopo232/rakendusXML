@@ -29,11 +29,11 @@
 			}
 		</style>
 
-		<h2>Kõik reisid (Tabel)</h2>
+		<h2>Kõik reisid</h2>
 		<table>
 			<tr>
 				<th>Riik</th>
-				<th>Kestvus (p)</th>
+				<th>Kestvus</th>
 				<th>Transport</th>
 				<th>Majutus</th>
 				<th>Ekskursioonid</th>
