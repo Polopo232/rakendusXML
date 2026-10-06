@@ -124,7 +124,9 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="MinuSugupuu.xml" />
-    <Content Include="ReisXSLT.xslt" />
+    <Content Include="ReisXSLT.xslt">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
